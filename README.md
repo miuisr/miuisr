@@ -1,4 +1,4 @@
-# <p align="center"> MIUISR 
+# MIUISR 
 
 ## About MIUISR
   MIUI SR is a Project focused on building custom rom based on MIUI That gives out the Maximum Performance with Smoothness along with stability

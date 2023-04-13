@@ -1,10 +1,14 @@
-{   
-   "Name": "vili",
-   "Name": "haydn",
-   "Name": "vayu",
-   "Name": "sweet",
-   "Name": "alioth",
-   "Name": "surya",
-   "Name": "raphael",
-   "Name": "phoenix"
-}
+[
+   {
+     "name": "build 1"
+   },
+   {
+     "name": "Build 2"
+   },
+   {
+      "name": "Build 3"
+    },
+    {
+      "name": "Build 4"
+    }
+ ]
